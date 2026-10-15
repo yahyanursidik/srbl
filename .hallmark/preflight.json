@@ -1,0 +1,10 @@
+{
+  "date": "2026-10-15",
+  "initialProject": "Empty directory; no existing framework, assets, fonts, or tokens",
+  "framework": "Next.js 16.4.1 App Router with Turbopack",
+  "designSource": "https://www.figma.com/design/qGuJrXsOwetwvCyaacvGLc/Web-Project-Saribunga?node-id=0-1",
+  "preserve": ["Figma navigation", "Figma section order", "Metropolis", "green and yellow brand palette", "original assets"],
+  "audience": "Company portfolio visitors, customers, and prospective sales partners",
+  "primaryAction": "Explore products and contact sales through WhatsApp",
+  "tone": "Corporate herbal, following the supplied Figma design"
+}

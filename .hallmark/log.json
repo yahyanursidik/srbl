@@ -1,0 +1,12 @@
+[
+  {
+    "date": "2026-10-15",
+    "macrostructure": "Figma reference",
+    "theme": "Saribunga Figma",
+    "nav": "Reference transparent bar with dropdown and mobile disclosure",
+    "footer": "Reference four-column footer",
+    "enrichment": "Original Figma photography and icons",
+    "brief": "Company portfolio and sales website, faithful to the user's supplied Figma design",
+    "overrides": "User explicitly requests Figma fidelity; source typography, centered hero, card grids, and colors override Hallmark catalog rules."
+  }
+]
